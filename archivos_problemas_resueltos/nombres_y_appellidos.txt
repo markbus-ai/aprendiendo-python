@@ -1,0 +1,13 @@
+los datos son: 
+Nombre: lucas
+Apellido:rodriguez
+--------------
+Nombre: marcos
+Apellido:bustos
+--------------
+Nombre: juan
+Apellido:fernandez
+--------------
+Nombre: alondra
+Apellido:sanz
+--------------
